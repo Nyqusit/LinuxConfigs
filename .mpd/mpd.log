@@ -1,0 +1,271 @@
+Mar 17 17:06 : exception: Failed to open /home/nyquist/.mpd/mpdstate: No such file or directory
+Mar 17 17:06 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 17 17:06 : update: added /Dubloadz - Out Tha Way (feat. Young Buck)-T_rCbsqVpHg.mp3
+Mar 17 17:06 : update: added /Front_Right.wav
+Mar 17 17:06 : update: added /Side_Left.wav
+Mar 17 17:06 : update: added /Rear_Left.wav
+Mar 17 17:06 : update: added /Side_Right.wav
+Mar 17 17:06 : update: added /Noise.wav
+Mar 17 17:06 : update: added /Front_Center.wav
+Mar 17 17:06 : update: added /Front_Left.wav
+Mar 17 17:06 : update: added /Rear_Center.wav
+Mar 17 17:06 : update: added /Rear_Right.wav
+Mar 17 17:06 : avahi: Service 'Music Player' successfully established.
+Mar 17 17:07 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 17 17:07 : avahi: Service 'Music Player' successfully established.
+Mar 17 17:11 : client: [0] opened from 127.0.0.1:45128
+Mar 17 17:12 : client: [0] closed
+Mar 17 17:12 : client: [1] opened from 127.0.0.1:45132
+Mar 17 17:13 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 17 17:16 : player: played "Rear_Left.wav"
+Mar 17 17:16 : player: played "Rear_Center.wav"
+Mar 17 17:17 : player: played "Rear_Left.wav"
+Mar 17 17:17 : player: played "Rear_Center.wav"
+Mar 17 17:17 : player: played "Rear_Center.wav"
+Mar 17 17:17 : client: [1] closed
+Mar 17 17:17 : client: [2] opened from 127.0.0.1:45136
+Mar 17 17:17 : exception: Failed to decode /home/nyquist/Music/Rear_Center.wav
+Mar 17 17:17 : exception: nested: Failed to open /home/nyquist/Music/Rear_Center.wav: No such file or directory
+Mar 17 17:17 : player: played "Rear_Center.wav"
+Mar 17 17:17 : exception: Failed to decode /home/nyquist/Music/Rear_Center.wav
+Mar 17 17:17 : exception: nested: Failed to open /home/nyquist/Music/Rear_Center.wav: No such file or directory
+Mar 17 17:17 : exception: Failed to decode /home/nyquist/Music/Rear_Left.wav
+Mar 17 17:17 : exception: nested: Failed to open /home/nyquist/Music/Rear_Left.wav: No such file or directory
+Mar 17 17:17 : player: played "Rear_Left.wav"
+Mar 17 17:18 : client: [2] closed
+Mar 17 17:19 : client: [3] opened from 127.0.0.1:45144
+Mar 17 17:19 : client: [3] closed
+Mar 17 17:20 : client: [4] opened from 127.0.0.1:45146
+Mar 17 17:20 : exception: Failed to decode /home/nyquist/Music/Front_Center.wav
+Mar 17 17:20 : exception: nested: Failed to open /home/nyquist/Music/Front_Center.wav: No such file or directory
+Mar 17 17:20 : player: played "Front_Center.wav"
+Mar 17 17:20 : exception: Failed to decode /home/nyquist/Music/Front_Center.wav
+Mar 17 17:20 : exception: nested: Failed to open /home/nyquist/Music/Front_Center.wav: No such file or directory
+Mar 17 17:20 : player: played "Front_Center.wav"
+Mar 17 17:20 : exception: Failed to decode /home/nyquist/Music/Front_Center.wav
+Mar 17 17:20 : exception: nested: Failed to open /home/nyquist/Music/Front_Center.wav: No such file or directory
+Mar 17 17:20 : player: played "Front_Center.wav"
+Mar 17 17:20 : exception: Failed to decode /home/nyquist/Music/Front_Center.wav
+Mar 17 17:20 : exception: nested: Failed to open /home/nyquist/Music/Front_Center.wav: No such file or directory
+Mar 17 17:20 : player: played "Front_Center.wav"
+Mar 17 17:20 : exception: Failed to decode /home/nyquist/Music/Front_Center.wav
+Mar 17 17:20 : exception: nested: Failed to open /home/nyquist/Music/Front_Center.wav: No such file or directory
+Mar 17 17:20 : player: played "Front_Center.wav"
+Mar 17 17:22 : client: [4] closed
+Mar 17 17:22 : client: [5] opened from 127.0.0.1:45150
+Mar 17 17:22 : update: removing Front_Right.wav
+Mar 17 17:22 : update: removing Front_Left.wav
+Mar 17 17:22 : update: removing Front_Center.wav
+Mar 17 17:22 : update: removing Side_Left.wav
+Mar 17 17:22 : update: removing Rear_Right.wav
+Mar 17 17:22 : update: removing Rear_Left.wav
+Mar 17 17:22 : update: removing Rear_Center.wav
+Mar 17 17:22 : update: removing Noise.wav
+Mar 17 17:22 : update: removing Side_Right.wav
+Mar 17 17:24 : exception: Failed to open audio output
+Mar 17 17:27 : player: played "Dubloadz - Out Tha Way (feat. Young Buck)-T_rCbsqVpHg.mp3"
+Mar 17 17:29 : client: [5] closed
+Mar 17 17:29 : client: [6] opened from 127.0.0.1:45216
+Mar 17 17:30 : player: played "Dubloadz - Out Tha Way (feat. Young Buck)-T_rCbsqVpHg.mp3"
+Mar 17 17:31 : client: [6] closed
+Mar 17 17:31 : client: [7] opened from 127.0.0.1:45220
+Mar 17 17:35 : update: updating /Dubloadz - Out Tha Way (feat. Young Buck)-T_rCbsqVpHg.mp3
+Mar 17 17:35 : client: [7] closed
+Mar 17 17:36 : client: [8] opened from 127.0.0.1:45224
+Mar 17 17:38 : exception: Failed to open audio output
+Mar 17 17:43 : player: played "Dubloadz - Out Tha Way (feat. Young Buck)-T_rCbsqVpHg.mp3"
+Mar 17 17:43 : client: [8] closed
+Mar 17 17:43 : client: [9] opened from 127.0.0.1:45268
+Mar 17 17:43 : client: [9] closed
+Mar 17 17:44 : client: [10] opened from 127.0.0.1:45270
+Mar 17 17:45 : player: played "Dubloadz - Out Tha Way (feat. Young Buck)-T_rCbsqVpHg.mp3"
+Mar 17 17:47 : update: updating /Dubloadz - Out Tha Way (feat. Young Buck)-T_rCbsqVpHg.mp3
+Mar 17 17:47 : update: added /Plini - 'SELENIUM FOREST'-5fNhD_lP1F4.mp3
+Mar 17 17:52 : player: played "Dubloadz - Out Tha Way (feat. Young Buck)-T_rCbsqVpHg.mp3"
+Mar 17 17:53 : client: [10] closed
+Mar 17 17:54 : client: [11] opened from 127.0.0.1:45330
+Mar 17 17:54 : player: played "Plini - 'SELENIUM FOREST'-5fNhD_lP1F4.mp3"
+Mar 17 17:54 : player: played "Plini - 'SELENIUM FOREST'-5fNhD_lP1F4.mp3"
+Mar 17 17:55 : player: played "Plini - 'SELENIUM FOREST'-5fNhD_lP1F4.mp3"
+Mar 17 17:59 : player: played "Dubloadz - Out Tha Way (feat. Young Buck)-T_rCbsqVpHg.mp3"
+Mar 17 18:02 : update: added /Getter - Ham Sandwich-2wPD8fjBm7Y.mp3
+Mar 17 18:03 : player: played "Getter - Ham Sandwich-2wPD8fjBm7Y.mp3"
+Mar 17 18:05 : player: played "Plini - 'SELENIUM FOREST'-5fNhD_lP1F4.mp3"
+Mar 17 18:05 : player: played "Plini - 'SELENIUM FOREST'-5fNhD_lP1F4.mp3"
+Mar 17 18:05 : exception: Not playing
+Mar 17 18:08 : client: [11] closed
+Mar 17 18:08 : client: [12] opened from 127.0.0.1:45376
+Mar 17 18:10 : client: [12] closed
+Mar 17 18:10 : client: [13] opened from 127.0.0.1:45396
+Mar 17 18:10 : player: played "Plini - 'SELENIUM FOREST'-5fNhD_lP1F4.mp3"
+Mar 17 18:10 : exception: Not playing
+Mar 17 18:10 : exception: Not playing
+Mar 17 18:10 : exception: Not playing
+Mar 17 18:13 : player: played "Getter - Ham Sandwich-2wPD8fjBm7Y.mp3"
+Mar 17 18:14 : client: [13] closed
+Mar 17 18:14 : exception: "pulse audio" [pulse] failed to play: disconnected
+Mar 17 18:14 : player: played "Plini - 'SELENIUM FOREST'-5fNhD_lP1F4.mp3"
+Mar 17 18:32 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 17 18:32 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 17 18:32 : avahi: Service 'Music Player' successfully established.
+Mar 17 18:32 : client: [0] opened from 127.0.0.1:49272
+Mar 17 18:33 : client: [0] closed
+Mar 17 18:34 : exception: "pulse audio" [pulse] failed to play: suspended
+Mar 17 18:34 : avahi: Client Disconnected, will reconnect shortly
+Mar 17 18:35 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 17 18:35 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 17 18:35 : client: [0] opened from 127.0.0.1:60478
+Mar 17 18:35 : avahi: Service 'Music Player' successfully established.
+Mar 17 18:35 : client: [1] opened from 127.0.0.1:60480
+Mar 17 18:35 : client: [0] closed
+Mar 17 18:35 : client: [1] closed
+Mar 17 18:35 : client: [2] opened from 127.0.0.1:60482
+Mar 17 18:39 : player: played "Getter - Ham Sandwich-2wPD8fjBm7Y.mp3"
+Mar 17 18:42 : player: played "Dubloadz - Out Tha Way (feat. Young Buck)-T_rCbsqVpHg.mp3"
+Mar 17 18:48 : player: played "Plini - 'SELENIUM FOREST'-5fNhD_lP1F4.mp3"
+Mar 17 18:58 : player: played "Plini - 'SELENIUM FOREST'-5fNhD_lP1F4.mp3"
+Mar 17 18:58 : exception: Not playing
+Mar 17 18:58 : exception: Not playing
+Mar 17 19:00 : player: played "Dubloadz - Out Tha Way (feat. Young Buck)-T_rCbsqVpHg.mp3"
+Mar 17 19:00 : exception: Failed to open /home/nyquist/Music/tes.m3u.m3u: No such file or directory
+Mar 17 19:00 : player: played "Dubloadz - Out Tha Way (feat. Young Buck)-T_rCbsqVpHg.mp3"
+Mar 17 19:00 : exception: Not playing
+Mar 17 19:00 : exception: Not playing
+Mar 17 19:00 : exception: Not playing
+Mar 17 19:00 : exception: Not playing
+Mar 17 19:00 : player: played "Plini - 'SELENIUM FOREST'-5fNhD_lP1F4.mp3"
+Mar 17 19:00 : exception: Not playing
+Mar 17 19:02 : exception: Failed to open /home/nyquist/Music/tes.m3u.m3u: No such file or directory
+Mar 17 19:02 : exception: Failed to open /home/nyquist/Music/tes.m3u.m3u: No such file or directory
+Mar 17 19:02 : player: played "Dubloadz - Out Tha Way (feat. Young Buck)-T_rCbsqVpHg.mp3"
+Mar 17 19:02 : exception: Not playing
+Mar 17 19:02 : exception: Not playing
+Mar 17 19:03 : player: played "Plini - 'SELENIUM FOREST'-5fNhD_lP1F4.mp3"
+Mar 17 19:03 : exception: Failed to open /home/nyquist/Music/tes.m3u.m3u: No such file or directory
+Mar 17 19:03 : player: played "Plini - 'SELENIUM FOREST'-5fNhD_lP1F4.mp3"
+Mar 17 19:03 : exception: Failed to open /home/nyquist/Music/tes.m3u.m3u: No such file or directory
+Mar 17 19:04 : player: played "Plini - 'SELENIUM FOREST'-5fNhD_lP1F4.mp3"
+Mar 17 19:04 : exception: Failed to open /home/nyquist/Music/tes.m3u.m3u: No such file or directory
+Mar 17 19:04 : player: played "Dubloadz - Out Tha Way (feat. Young Buck)-T_rCbsqVpHg.mp3"
+Mar 17 19:04 : exception: Not playing
+Mar 17 19:04 : exception: Not playing
+Mar 17 19:05 : player: played "Plini - 'SELENIUM FOREST'-5fNhD_lP1F4.mp3"
+Mar 17 19:05 : exception: Not playing
+Mar 17 19:05 : player: played "Dubloadz - Out Tha Way (feat. Young Buck)-T_rCbsqVpHg.mp3"
+Mar 17 19:05 : player: played "Dubloadz - Out Tha Way (feat. Young Buck)-T_rCbsqVpHg.mp3"
+Mar 17 19:06 : client: [2] closed
+Mar 17 19:06 : client: [3] opened from 127.0.0.1:60660
+Mar 17 19:08 : player: played "Plini - 'SELENIUM FOREST'-5fNhD_lP1F4.mp3"
+Mar 17 19:08 : player: played "Dubloadz - Out Tha Way (feat. Young Buck)-T_rCbsqVpHg.mp3"
+Mar 17 19:08 : exception: Not playing
+Mar 17 19:08 : player: played "Dubloadz - Out Tha Way (feat. Young Buck)-T_rCbsqVpHg.mp3"
+Mar 17 19:08 : player: played "Dubloadz - Out Tha Way (feat. Young Buck)-T_rCbsqVpHg.mp3"
+Mar 17 19:08 : exception: Not playing
+Mar 17 19:08 : exception: Not playing
+Mar 17 19:08 : player: played "Plini - 'SELENIUM FOREST'-5fNhD_lP1F4.mp3"
+Mar 17 19:14 : player: played "Dubloadz - Out Tha Way (feat. Young Buck)-T_rCbsqVpHg.mp3"
+Mar 17 19:18 : player: played "Dubloadz - Out Tha Way (feat. Young Buck)-T_rCbsqVpHg.mp3"
+Mar 17 19:24 : player: played "Plini - 'SELENIUM FOREST'-5fNhD_lP1F4.mp3"
+Mar 17 19:28 : player: played "Getter - Ham Sandwich-2wPD8fjBm7Y.mp3"
+Mar 17 20:14 : client: [4] opened from 127.0.0.1:60898
+Mar 17 20:14 : client: [4] closed
+Mar 17 20:18 : client: [5] opened from 127.0.0.1:60902
+Mar 17 20:18 : client: [5] closed
+Mar 17 20:18 : client: [6] opened from 127.0.0.1:60906
+Mar 17 20:18 : client: [6] closed
+Mar 17 20:46 : client: [3] closed
+Mar 17 20:49 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 17 20:49 : avahi: Service 'Music Player' successfully established.
+Mar 17 21:45 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 17 21:45 : client: [0] opened from 127.0.0.1:49224
+Mar 17 21:45 : avahi: Service 'Music Player' successfully established.
+Mar 17 21:49 : client: [0] closed
+Mar 17 21:50 : client: [1] opened from 127.0.0.1:49230
+Mar 17 21:50 : client: [1] closed
+Mar 17 21:50 : client: [2] opened from 127.0.0.1:49232
+Mar 17 21:51 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 17 21:52 : player: played "Plini - 'SELENIUM FOREST'-5fNhD_lP1F4.mp3"
+Mar 17 21:52 : exception: Not playing
+Mar 17 21:52 : player: played "Dubloadz - Out Tha Way (feat. Young Buck)-T_rCbsqVpHg.mp3"
+Mar 17 21:52 : exception: Not playing
+Mar 17 21:52 : player: played "Dubloadz - Out Tha Way (feat. Young Buck)-T_rCbsqVpHg.mp3"
+Mar 17 21:52 : exception: Not playing
+Mar 17 21:52 : exception: Not playing
+Mar 17 21:52 : exception: Not playing
+Mar 17 21:52 : exception: Not playing
+Mar 17 21:53 : player: played "Plini - 'SELENIUM FOREST'-5fNhD_lP1F4.mp3"
+Mar 17 21:53 : exception: Not playing
+Mar 17 21:53 : player: played "Plini - 'SELENIUM FOREST'-5fNhD_lP1F4.mp3"
+Mar 17 21:54 : player: played "Getter - Ham Sandwich-2wPD8fjBm7Y.mp3"
+Mar 17 21:54 : player: played "Dubloadz - Out Tha Way (feat. Young Buck)-T_rCbsqVpHg.mp3"
+Mar 17 21:58 : client: [2] closed
+Mar 17 21:58 : client: [3] opened from 127.0.0.1:49236
+Mar 17 22:00 : player: played "Plini - 'SELENIUM FOREST'-5fNhD_lP1F4.mp3"
+Mar 17 22:04 : player: played "Dubloadz - Out Tha Way (feat. Young Buck)-T_rCbsqVpHg.mp3"
+Mar 17 22:08 : player: played "Getter - Ham Sandwich-2wPD8fjBm7Y.mp3"
+Mar 17 22:12 : player: played "Dubloadz - Out Tha Way (feat. Young Buck)-T_rCbsqVpHg.mp3"
+Mar 17 22:18 : player: played "Plini - 'SELENIUM FOREST'-5fNhD_lP1F4.mp3"
+Mar 17 22:19 : client: [3] closed
+Mar 17 22:19 : client: [4] opened from 127.0.0.1:49350
+Mar 17 22:21 : player: played "Dubloadz - Out Tha Way (feat. Young Buck)-T_rCbsqVpHg.mp3"
+Mar 17 22:24 : player: played "Dubloadz - Out Tha Way (feat. Young Buck)-T_rCbsqVpHg.mp3"
+Mar 17 22:28 : player: played "Dubloadz - Out Tha Way (feat. Young Buck)-T_rCbsqVpHg.mp3"
+Mar 17 22:31 : player: played "Dubloadz - Out Tha Way (feat. Young Buck)-T_rCbsqVpHg.mp3"
+Mar 17 22:37 : player: played "Plini - 'SELENIUM FOREST'-5fNhD_lP1F4.mp3"
+Mar 17 22:39 : client: [4] closed
+Mar 17 22:39 : client: [5] opened from 127.0.0.1:49400
+Mar 17 22:41 : player: played "Dubloadz - Out Tha Way (feat. Young Buck)-T_rCbsqVpHg.mp3"
+Mar 17 22:47 : player: played "Plini - 'SELENIUM FOREST'-5fNhD_lP1F4.mp3"
+Mar 17 22:50 : player: played "Dubloadz - Out Tha Way (feat. Young Buck)-T_rCbsqVpHg.mp3"
+Mar 17 22:51 : client: [5] closed
+Mar 17 22:56 : player: played "Plini - 'SELENIUM FOREST'-5fNhD_lP1F4.mp3"
+Mar 17 22:57 : client: [6] opened from 127.0.0.1:49408
+Mar 17 22:58 : client: [6] closed
+Mar 17 22:58 : client: [7] opened from 127.0.0.1:49410
+Mar 17 23:00 : player: played "Getter - Ham Sandwich-2wPD8fjBm7Y.mp3"
+Mar 17 23:04 : player: played "Dubloadz - Out Tha Way (feat. Young Buck)-T_rCbsqVpHg.mp3"
+Mar 17 23:06 : client: [7] closed
+Mar 17 23:07 : client: [8] opened from 127.0.0.1:49826
+Mar 17 23:07 : client: [8] closed
+Mar 17 23:07 : client: [9] opened from 127.0.0.1:49828
+Mar 17 23:11 : player: played "Dubloadz - Out Tha Way (feat. Young Buck)-T_rCbsqVpHg.mp3"
+Mar 17 23:17 : player: played "Plini - 'SELENIUM FOREST'-5fNhD_lP1F4.mp3"
+Mar 17 23:21 : player: played "Getter - Ham Sandwich-2wPD8fjBm7Y.mp3"
+Mar 18 02:50 : client: [9] closed
+Mar 18 13:07 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 18 13:07 : client: [0] opened from 127.0.0.1:59136
+Mar 18 13:07 : avahi: Service 'Music Player' successfully established.
+Mar 18 13:08 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 18 13:08 : client: [0] closed
+Mar 18 13:08 : client: [1] opened from 127.0.0.1:59138
+Mar 18 13:09 : client: [1] closed
+Mar 18 13:09 : client: [2] opened from 127.0.0.1:59142
+Mar 18 13:09 : client: [2] closed
+Mar 18 13:10 : client: [3] opened from 127.0.0.1:59144
+Mar 18 13:12 : client: [3] closed
+Mar 18 13:12 : client: [4] opened from 127.0.0.1:59146
+Mar 18 13:15 : player: played "Getter - Ham Sandwich-2wPD8fjBm7Y.mp3"
+Mar 18 13:23 : player: played "Plini - 'SELENIUM FOREST'-5fNhD_lP1F4.mp3"
+Mar 18 13:23 : client: [4] closed
+Mar 18 13:26 : player: played "Getter - Ham Sandwich-2wPD8fjBm7Y.mp3"
+Mar 18 13:27 : client: [5] opened from 127.0.0.1:59206
+Mar 18 13:35 : player: played "Plini - 'SELENIUM FOREST'-5fNhD_lP1F4.mp3"
+Mar 18 13:35 : client: [5] closed
+Mar 18 13:41 : player: played "Plini - 'SELENIUM FOREST'-5fNhD_lP1F4.mp3"
+Mar 18 13:45 : player: played "Getter - Ham Sandwich-2wPD8fjBm7Y.mp3"
+Mar 18 13:51 : player: played "Plini - 'SELENIUM FOREST'-5fNhD_lP1F4.mp3"
+Mar 18 13:52 : client: [6] opened from 127.0.0.1:59424
+Mar 18 13:52 : client: [6] closed
+Mar 18 13:56 : client: [7] opened from 127.0.0.1:59476
+Mar 18 13:58 : client: [7] closed
+Mar 18 14:17 : client: [8] opened from 127.0.0.1:59626
+Mar 18 14:18 : client: [8] closed
+Mar 18 14:23 : client: [9] opened from 127.0.0.1:59686
+Mar 18 14:23 : client: [9] closed
+Mar 18 14:36 : client: [10] opened from 127.0.0.1:59762
+Mar 18 14:37 : client: [10] closed
+Mar 18 16:01 : avahi: Client Disconnected, will reconnect shortly
+Mar 18 16:01 : exception: "pulse audio" [pulse] failed to pause: failed to connect the stream: Connection terminated
+Mar 18 16:05 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 18 16:05 : avahi: Service 'Music Player' successfully established.
+Mar 18 16:12 : player: played "Plini - 'SELENIUM FOREST'-5fNhD_lP1F4.mp3"
