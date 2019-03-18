@@ -7,8 +7,11 @@
 !/.config/i3
 !/.config/.ncmpcpp
 !/.config/.mpn
+!/.config/ranger/*
 
 !/.vim_runtime
 /.vim_runtime/*
 !/.vim_runtime/my_configs.vim
 !/.vim_runtime/vimrcs
+!/.ncmpcpp/*
+!/.mpd/*
