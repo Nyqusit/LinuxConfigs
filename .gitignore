@@ -1,0 +1,9 @@
+*
+
+!.config/i3/**
+!.config/ranger/**
+!.gitignore
+!.vim_runtime/
+!.ncmpcpp/
+!.mpd/
+!.bashrc
