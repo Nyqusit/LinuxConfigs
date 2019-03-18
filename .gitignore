@@ -1,9 +1,14 @@
-*
+/* 
 
-!.config/i3/**
-!.config/ranger/**
-!.gitignore
-!.vim_runtime/
-!.ncmpcpp/
-!.mpd/
 !.bashrc
+!.gitignore
+!/.config
+/.config/*
+!/.config/i3
+!/.config/.ncmpcpp
+!/.config/.mpn
+
+!/.vim_runtime
+/.vim_runtime/*
+!/.vim_runtime/my_configs.vim
+!/.vim_runtime/vimrcs
