@@ -8,6 +8,7 @@
 !/.config/.ncmpcpp
 !/.config/.mpn
 !/.config/ranger
+!/.config/compton.conf
 
 !/.vim_runtime
 /.vim_runtime/*

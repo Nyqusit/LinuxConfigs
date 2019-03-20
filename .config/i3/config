@@ -183,9 +183,10 @@ bindsym $mod+c move absolute position center
 # finds out, if available)
 bar {
     position top    
-    status_command i3status
+    #status_command i3status
 	font pango:Source Sans Pro-10 10
-
+    #status_command /home/nyquist/.config/i3/bar/hello.sh 
+    status_command /home/nyquist/.config/i3/bar/date.sh
     colors {
         separator #268bd2
         background #002b36
@@ -239,4 +240,5 @@ for_window [title="game"] floating enable
 exec feh --bg-fill /home/nyquist/Pictures/Wallpapers/anomaly-1920x1200.jpg 
 #exec xcompmgr -c -f -n
 exec xcompmgr -c -n
+exec --no-startup-id compton --config ~/.config/compton.conf -b
 #exec xcompmgr -c & 

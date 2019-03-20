@@ -2,8 +2,8 @@ sw_volume: 22
 audio_device_state:1:pulse audio
 audio_device_state:1:my_fifo
 state: pause
-current: 16
-time: 77.909000
+current: 11
+time: 2.496000
 random: 0
 repeat: 0
 single: 0
@@ -24,35 +24,33 @@ playlist_begin
 9:Getter - Ham Sandwich-2wPD8fjBm7Y.mp3
 10:Getter - Ham Sandwich-2wPD8fjBm7Y.mp3
 11:Plini - 'SELENIUM FOREST'-5fNhD_lP1F4.mp3
-12:Plini - 'SELENIUM FOREST'-5fNhD_lP1F4.mp3
+12:Getter - Ham Sandwich-2wPD8fjBm7Y.mp3
 13:Plini - 'SELENIUM FOREST'-5fNhD_lP1F4.mp3
-14:Getter - Ham Sandwich-2wPD8fjBm7Y.mp3
+14:Plini - 'SELENIUM FOREST'-5fNhD_lP1F4.mp3
 15:Plini - 'SELENIUM FOREST'-5fNhD_lP1F4.mp3
 16:Plini - 'SELENIUM FOREST'-5fNhD_lP1F4.mp3
-17:Plini - 'SELENIUM FOREST'-5fNhD_lP1F4.mp3
+17:Getter - Ham Sandwich-2wPD8fjBm7Y.mp3
 18:Plini - 'SELENIUM FOREST'-5fNhD_lP1F4.mp3
 19:Getter - Ham Sandwich-2wPD8fjBm7Y.mp3
-20:Plini - 'SELENIUM FOREST'-5fNhD_lP1F4.mp3
-21:Getter - Ham Sandwich-2wPD8fjBm7Y.mp3
-22:Dubloadz - Out Tha Way (feat. Young Buck)-T_rCbsqVpHg.mp3
-23:Plini - 'SELENIUM FOREST'-5fNhD_lP1F4.mp3
-24:Getter - Ham Sandwich-2wPD8fjBm7Y.mp3
-25:Dubloadz - Out Tha Way (feat. Young Buck)-T_rCbsqVpHg.mp3
-26:Plini - 'SELENIUM FOREST'-5fNhD_lP1F4.mp3
-27:Getter - Ham Sandwich-2wPD8fjBm7Y.mp3
-28:Dubloadz - Out Tha Way (feat. Young Buck)-T_rCbsqVpHg.mp3
-29:Plini - 'SELENIUM FOREST'-5fNhD_lP1F4.mp3
-30:Getter - Ham Sandwich-2wPD8fjBm7Y.mp3
-31:Dubloadz - Out Tha Way (feat. Young Buck)-T_rCbsqVpHg.mp3
-32:Plini - 'SELENIUM FOREST'-5fNhD_lP1F4.mp3
-33:Getter - Ham Sandwich-2wPD8fjBm7Y.mp3
-34:Dubloadz - Out Tha Way (feat. Young Buck)-T_rCbsqVpHg.mp3
-35:Dubloadz - Out Tha Way (feat. Young Buck)-T_rCbsqVpHg.mp3
-36:Plini - 'SELENIUM FOREST'-5fNhD_lP1F4.mp3
-37:Getter - Ham Sandwich-2wPD8fjBm7Y.mp3
-38:Dubloadz - Out Tha Way (feat. Young Buck)-T_rCbsqVpHg.mp3
-39:Dubloadz - Out Tha Way (feat. Young Buck)-T_rCbsqVpHg.mp3
-40:Plini - 'SELENIUM FOREST'-5fNhD_lP1F4.mp3
-41:Getter - Ham Sandwich-2wPD8fjBm7Y.mp3
-42:Dubloadz - Out Tha Way (feat. Young Buck)-T_rCbsqVpHg.mp3
+20:Dubloadz - Out Tha Way (feat. Young Buck)-T_rCbsqVpHg.mp3
+21:Plini - 'SELENIUM FOREST'-5fNhD_lP1F4.mp3
+22:Getter - Ham Sandwich-2wPD8fjBm7Y.mp3
+23:Dubloadz - Out Tha Way (feat. Young Buck)-T_rCbsqVpHg.mp3
+24:Plini - 'SELENIUM FOREST'-5fNhD_lP1F4.mp3
+25:Getter - Ham Sandwich-2wPD8fjBm7Y.mp3
+26:Dubloadz - Out Tha Way (feat. Young Buck)-T_rCbsqVpHg.mp3
+27:Plini - 'SELENIUM FOREST'-5fNhD_lP1F4.mp3
+28:Getter - Ham Sandwich-2wPD8fjBm7Y.mp3
+29:Dubloadz - Out Tha Way (feat. Young Buck)-T_rCbsqVpHg.mp3
+30:Plini - 'SELENIUM FOREST'-5fNhD_lP1F4.mp3
+31:Getter - Ham Sandwich-2wPD8fjBm7Y.mp3
+32:Dubloadz - Out Tha Way (feat. Young Buck)-T_rCbsqVpHg.mp3
+33:Dubloadz - Out Tha Way (feat. Young Buck)-T_rCbsqVpHg.mp3
+34:Plini - 'SELENIUM FOREST'-5fNhD_lP1F4.mp3
+35:Getter - Ham Sandwich-2wPD8fjBm7Y.mp3
+36:Dubloadz - Out Tha Way (feat. Young Buck)-T_rCbsqVpHg.mp3
+37:Dubloadz - Out Tha Way (feat. Young Buck)-T_rCbsqVpHg.mp3
+38:Plini - 'SELENIUM FOREST'-5fNhD_lP1F4.mp3
+39:Getter - Ham Sandwich-2wPD8fjBm7Y.mp3
+40:Dubloadz - Out Tha Way (feat. Young Buck)-T_rCbsqVpHg.mp3
 playlist_end

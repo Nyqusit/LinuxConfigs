@@ -44,10 +44,10 @@ shopt -s checkwinsize
 
 #my personal aliases
 #themes (profiles)
-alias theme-1="xdotool key Alt+t p Return Return"
-alias theme-2="xdotool key Alt+t p Down Return Return"
-alias theme-3="xdotool key Alt+t p Down Down Return Return"
-alias theme-4="xdotool key Alt+t p Down Down Down Return Return"
+alias theme-1="xdotool key Menu r 1 Return"
+alias theme-2="xdotool key Menu r 2 Return"
+alias theme-3="xdotool key Menu r 3 Return"
+alias theme-4="xdotool key Menu r 4 Return"
 
 alias cd-windows="cd /media/nyquist/windows_SSD/"
 alias cd-ter="cd /media/nyquist/Scay_Tery/"
@@ -101,7 +101,7 @@ fi
 if [ "$color_prompt" = yes ]; then
    # PS1='${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ '
     #PS1='${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u \[\033[00m\]\[\033[01;34m\]\W\[\033[00m\] $ '
-    PS1="\u\[\033[31m\] \[\033[34m\]\W\[\033[33m\]\$(parse_git_branch)\[\033[00m\] $ "
+    PS1=" \u\[\033[31m\] \[\033[34m\]\W\[\033[33m\]\$(parse_git_branch)\[\033[00m\] $ "
 
 else
     PS1='${debian_chroot:+($debian_chroot)}\u@\h:\w\$ '
